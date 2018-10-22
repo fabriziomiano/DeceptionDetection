@@ -1,0 +1,6 @@
+# Byte-compiled files
+*.pyc
+*~
+
+# Dirs
+.ipynb_checkpoints/
