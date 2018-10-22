@@ -1,6 +1,8 @@
 # Byte-compiled files
 *.pyc
 *~
+.DS_Store
+
 
 # Dirs
 .ipynb_checkpoints/
